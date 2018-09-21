@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-0": {
+            "MyApp": "src",
+            "RedBeanPHP\\" : "RedBeanPHP"
+        }
+    },
+    "require": {
+        "cboden/ratchet": "0.3.*",
+        "gabordemooij/redbean": "dev-master"
+    }
+}
